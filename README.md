@@ -19,8 +19,6 @@ I design and build intelligent, data-driven systems — spanning autonomous mult
 
 ---
 
-Here’s the updated Featured Projects section with Weather-App removed and your new MedBill_Audit project added at the top.
-
 ### 🌟 Featured Projects
 
 | Project                                                                                                        | Tech Stack                                         | Highlights                                                                                                                                                                                                                                                                                                       |

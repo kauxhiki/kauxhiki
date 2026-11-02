@@ -31,7 +31,6 @@ Here’s the updated Featured Projects section with Weather-App removed and your
 | 📊 [exec-report-app](https://github.com/kauxhiki/exec-report-app--2-?utm_source=chatgpt.com)                   | Node.js · JavaScript · SQL · CLI & Web             | Executive Analytics & SQL Engine: Standalone Node.js CLI and web UI that turns raw spreadsheets into executive summary briefs and auto-generates MySQL schemas and batch inserts.                                                                                                                                |
 | 🌐 [Personal-Portfolio](https://github.com/kauxhiki/Personal-Portfolio?utm_source=chatgpt.com)                 | JavaScript · CSS3 · Google Sheets API              | Interactive Frontend: Modern personal portfolio with fluid CSS animations and serverless Google Sheets integration for real-time contact capturing.                                                                                                                                                              |
 
-Suggested positioning: This lineup highlights AI/ML, multi-agent systems, public health technology, geospatial intelligence, and full-stack development.
 ---
 
 ### 🛠️ Languages & Technologies

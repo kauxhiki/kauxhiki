@@ -19,16 +19,19 @@ I design and build intelligent, data-driven systems — spanning autonomous mult
 
 ---
 
+Here’s the updated Featured Projects section with Weather-App removed and your new MedBill_Audit project added at the top.
+
 ### 🌟 Featured Projects
 
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| 🤖 [**Neuro-Agent-Loan-Assistant**](https://github.com/kauxhiki/Neuro-Agent-Loan-Assistant) | Python Multi-Agent ML Fintech | **Autonomous Credit Underwriting**: Multi-agent system that trains credit risk models, evaluates financial applicant profiles, and generates verified sanction letters. |
-| 🌊 [**Jeevan-Setu**](https://github.com/kauxhiki/Jeevan-Setu) | Python Leaflet ML Pipeline GeoData | **Flood Prediction & Early Warning**: Geospatial disaster intelligence platform with predictive ML models, telemetry integration, and interactive evacuation & hazard maps. |
-| 📊 [**exec-report-app**](https://github.com/kauxhiki/exec-report-app--2-) | Node.js JavaScript SQL CLI & Web | **Executive Analytics & SQL Engine**: Standalone Node.js CLI & web UI that turns raw spreadsheets into executive summary briefs and auto-generates MySQL schemas and batch inserts. |
-| 🌐 [**Personal-Portfolio**](https://github.com/kauxhiki/Personal-Portfolio) | JavaScript CSS3 Google Sheets API | **Interactive Frontend**: Modern personal portfolio with fluid CSS animations and serverless Google Sheets integration for real-time contact capturing. |
-| 🌤️ [**Weather-App**](https://github.com/kauxhiki/Weather-App) | Python Tkinter OpenWeather API | **Desktop Telemetry App**: Python desktop client featuring an intuitive Tkinter GUI and live meteorological telemetry from RESTful APIs. |
+| Project                                                                                                        | Tech Stack                                         | Highlights                                                                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🏥 [MedBill_Audit](https://github.com/kauxhiki/MedBill_Audit?utm_source=chatgpt.com)                           | Python · Gemini AI · Google Search Grounding · NLP | AI Public Health Assistant & Medical Bill Audit OS: Privacy-first prototype that extracts hospital bill line items, discovers public price references using Gemini AI and Google Search grounding, flags entries with the exact phrase "possible issue in", and generates grievance letters and audio summaries. |
+| 🤖 [Neuro-Agent-Loan-Assistant](https://github.com/kauxhiki/Neuro-Agent-Loan-Assistant?utm_source=chatgpt.com) | Python · Multi-Agent ML · Fintech                  | Autonomous Credit Underwriting: Multi-agent system that trains credit risk models, evaluates financial applicant profiles, and generates verified sanction letters.                                                                                                                                              |
+| 🌊 [Jeevan-Setu](https://github.com/kauxhiki/Jeevan-Setu?utm_source=chatgpt.com)                               | Python · Leaflet · ML · GeoData                    | Flood Prediction & Early Warning: Geospatial disaster intelligence platform with predictive ML models, telemetry integration, and interactive evacuation and hazard maps.                                                                                                                                        |
+| 📊 [exec-report-app](https://github.com/kauxhiki/exec-report-app--2-?utm_source=chatgpt.com)                   | Node.js · JavaScript · SQL · CLI & Web             | Executive Analytics & SQL Engine: Standalone Node.js CLI and web UI that turns raw spreadsheets into executive summary briefs and auto-generates MySQL schemas and batch inserts.                                                                                                                                |
+| 🌐 [Personal-Portfolio](https://github.com/kauxhiki/Personal-Portfolio?utm_source=chatgpt.com)                 | JavaScript · CSS3 · Google Sheets API              | Interactive Frontend: Modern personal portfolio with fluid CSS animations and serverless Google Sheets integration for real-time contact capturing.                                                                                                                                                              |
 
+Suggested positioning: This lineup highlights AI/ML, multi-agent systems, public health technology, geospatial intelligence, and full-stack development.
 ---
 
 ### 🛠️ Languages & Technologies
